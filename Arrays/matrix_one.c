@@ -16,6 +16,7 @@ int main() {
             printf("%d\t", matrix[i][j]);
         }
         printf("\n");
+        
     }
     
     return 0;
